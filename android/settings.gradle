@@ -1,0 +1,3 @@
+rootProject.name = 'tripsteps_1260'
+
+include ':app'
